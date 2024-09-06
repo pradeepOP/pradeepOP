@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me:
-🙏I am Pradeep Chhetri <br>⚙️ Learner/programmer <br>🌱 I’m currently learning Next.js
+## 💫 Hi there 
+🙏I am Pradeep Chhetri <br>⚙️ Learner/programmer <br>
 
 
 # 💻 Tech Stack:
